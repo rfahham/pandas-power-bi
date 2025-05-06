@@ -2,6 +2,10 @@
 
 Este projeto demonstra como utilizar a biblioteca **Pandas** no Python para análise de dados e o **Power BI** para criação de dashboards interativos. A ideia é transformar dados brutos (ex: arquivos `.csv`) em insights visuais úteis.
 
+<div align="center">
+    <img src="./images/dados.png">
+</div>
+
 ---
 
 ## 🐍 O que é o Pandas?
